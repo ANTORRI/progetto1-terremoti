@@ -44,5 +44,5 @@ Assicurarsi che il dataset sia inserito nel percorso locale `dati/terremoti-2025
 ```bash
 python analisi.py
 
-:D
+:D   <3
 ```
